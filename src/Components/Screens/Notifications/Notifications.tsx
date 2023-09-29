@@ -3,7 +3,9 @@ import { Text, View } from "react-native";
 
 function Notifications(){
 return(
-    <View><Text style={{color:'black'}}>Notification Screen</Text></View>
+    <View>
+        <Text style={{color:'black'}}>Notification Screen</Text>
+    </View>
 )
 }
 
